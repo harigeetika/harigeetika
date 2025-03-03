@@ -5,7 +5,7 @@
 -->
 
 # 💫 About Me:
-🌱 I’m constantly growing my knowledge and skills in Full-Stack development<br>👨🏼‍🎓 Studying Masters in Computer Science at New Jersey Institute of Technology<br>👯 I’m excited to collaborate across various industries to gain valuable business insights and deliver impactful solutions.<br>⚡ Fun fact: I love to draw and paint.
+🌱 I’m constantly growing my knowledge and skills in Software Development, Data Analysis and AI<br>👨🏼‍🎓 Studying Masters in Computer Science at New Jersey Institute of Technology<br>👯 I’m excited to collaborate across various industries to gain valuable business insights and deliver impactful solutions.<br>⚡ Fun fact: I love to draw and paint.
 
 
 # 💻 Tech Stack:
